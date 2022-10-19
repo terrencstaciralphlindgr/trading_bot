@@ -1,0 +1,25 @@
+{
+  "strategy_name": "MultiRSI",
+  "params": {
+    "buy": {},
+    "sell": {},
+    "protection": {},
+    "roi": {
+      "0": 0.17700000000000002,
+      "12": 0.11000000000000001,
+      "42": 0.04,
+      "105": 0
+    },
+    "stoploss": {
+      "stoploss": -0.349
+    },
+    "trailing": {
+      "trailing_stop": true,
+      "trailing_stop_positive": 0.045,
+      "trailing_stop_positive_offset": 0.134,
+      "trailing_only_offset_is_reached": false
+    }
+  },
+  "ft_stratparam_v": 1,
+  "export_time": "2022-10-02 11:58:48.202588+00:00"
+}
